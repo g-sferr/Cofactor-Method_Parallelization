@@ -1,7 +1,7 @@
 ﻿
 #include "device_launch_parameters.h"
 #include "cuda_runtime.h"
-#include "device_functions.h"						// sincronizzazione
+#include "device_functions.h"	// sincronizzazione
 #include <stdlib.h>
 #include <stdio.h>
 #include <cstdlib>
